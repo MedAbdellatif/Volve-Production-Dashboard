@@ -62,6 +62,3 @@ NPD_FACILITY_CODE,
 NPD_FACILITY_NAME,
 AVG_CHOKE_UOM
 
-SELECT SUM([Oil_Production_SM3/D]) from DailyProduction
-select COUNT (*) from DailyProduction
-order by DATEPRD
