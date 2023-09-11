@@ -20,5 +20,4 @@ Well_Lookup
 
 FROM DailyProduction
 
-SELECT *
-FROM Well_Lookup
+
